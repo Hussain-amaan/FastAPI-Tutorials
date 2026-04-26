@@ -142,16 +142,7 @@ uvicorn main:app --reload
 http://127.0.0.1:8000/docs
 ```
 
----
 
-## ⚙️ Project Structure (Basic)
-
-```id="a3qz8s"
-.
-├── main.py
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -172,23 +163,11 @@ http://127.0.0.1:8000/docs
 * Automatic API documentation
 * Clean and readable code
 
----
 
-## 🔮 Next Steps
-
-* Authentication (JWT)
-* Database integration
-* Deployment
-* Advanced validation
-* Async programming
 
 ---
 
-## 👨‍💻 Author
 
-Amaan
-
----
 
 ## ⭐ Summary
 
