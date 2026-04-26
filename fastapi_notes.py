@@ -143,24 +143,4 @@ def save_data(data):
 
 --------------------------------
 
-16. COMMON ERRORS (YOU FACED)
--------------------
-- Dict[str] → should be Dict[str, type]
-- Wrong file name (.id instead of .json)
-- Case mismatch ("female" vs "Female")
-- Typo in Field(default)
-- Missing () in function calls
-
---------------------------------
-
-17. BEST PRACTICES
--------------------
-- Use lowercase field names (age, gender)
-- Keep models consistent
-- Validate inputs properly
-- Use proper status codes (200, 201, 404)
-
---------------------------------
-
-END OF NOTES
 """
