@@ -1,4 +1,6 @@
-# 🚀 FastAPI Learning Notes
+# 🚀 FastAPI Learning Notes 
+
+
 
 This repository contains my learning and practice of **FastAPI**, a modern Python framework for building high-performance APIs.
 
